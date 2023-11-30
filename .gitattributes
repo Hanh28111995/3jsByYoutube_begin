@@ -271,3 +271,4 @@
 /node_modules/update-browserslist-db/LICENSE filter=lfs diff=lfs merge=lfs -text
 /node_modules/utility-types/LICENSE filter=lfs diff=lfs merge=lfs -text
 /node_modules/yallist/LICENSE filter=lfs diff=lfs merge=lfs -text
+.mdb filter=lfs diff=lfs merge=lfs -text
